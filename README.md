@@ -18,7 +18,11 @@ Sylvie envia este mensaje a todos y cada uno de mis contactos a travez de Whatsa
 
 ![Captura de Pantalla 2022-07-11 a la(s) 21 24 17](https://user-images.githubusercontent.com/104222694/178395016-d88f7745-3bd2-4666-b574-ac9ff14bb317.png)
 
+## Ejemplo de ejecución
 
+https://user-images.githubusercontent.com/104222694/178400203-8500a001-a813-4ae7-9a2c-443a050cd5fc.mp4
+
+nota: Sylvie aún no soporta tildes
 
 ## Librerias y herramientas usadas
 
@@ -37,8 +41,13 @@ Link del video musical:  https://youtu.be/vCXsRoyFRQE?t=43
 
 Puedes encontrar el link de la extensión Coordinates de aqui abajo:
 
+
 https://chrome.google.com/webstore/detail/coordinates/bpflbjmbfccblbhlcmlgkajdpoiepmkd
 
 
 
 
+
+
+
+Muchas Gracias por el apoyo :seedling: :hearts:
